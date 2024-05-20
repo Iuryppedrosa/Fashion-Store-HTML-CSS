@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0187a969-ae98-4c4e-94a5-1edb6262e141/deploy-status)](https://app.netlify.com/sites/fashionstorehtml/deploys)
+# 🔍 To vist the webpage visit the link [here](https://fashionstorehtml.netlify.app)
 ![Captura de Tela 2024-04-19 às 13 51 41](https://github.com/Iuryppedrosa/Fashion-Store-HTML-CSS/assets/89420889/49fc6bcb-8a22-45d9-a3b6-830c59eb0b89)
 ---
 
